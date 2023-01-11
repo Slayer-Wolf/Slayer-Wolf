@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Slayer-Wolf/Slayer-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Darshan Talwar here!
 
-Here are some ideas to get you started:
+Hi I am Darshan Talwar, a Front End Web Developer living in Rajasthan, India, having 1+ years of professional experience into web development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to seek new challenges and problems. 
+
+Have a look at my skills or you can get in touch with me on any social media platform.
+
+
+## 🛠  Top Skills
+1.React
+
+2.HTML
+
+3.CSS
+
+4.Javascript
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-talwar-2b167a132)
+
+[![Github](https://img.shields.io/github/followers/Slayer-Wolf?style=social)](https://github.com/Slayer-Wolf)
+
