@@ -9,13 +9,15 @@ Have a look at my skills or you can get in touch with me on any social media pla
 
 
 ## 🛠  Top Skills
-1.React
+1. React
 
-2.HTML
+2. HTML
 
-3.CSS
+3. CSS
 
-4.Javascript
+4. Javascript
+
+5. Redux
 
 
 ## 🔗 Links
