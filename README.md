@@ -3,10 +3,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slayer-Wolf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Slayer-Wolf&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="105" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slayer-Wolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="107" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slayer-Wolf&radius=5&area=true&hide_border=false&hide_title=false&theme=github-dark" height="110" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Slayer-Wolf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Slayer-Wolf&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slayer-Wolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slayer-Wolf&theme=github-dark&radius=5&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
