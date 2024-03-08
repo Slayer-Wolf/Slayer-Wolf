@@ -38,6 +38,8 @@
 </div>
 
 ###
+<img align="right" height="100" src="https://github.com/Slayer-Wolf/Slayer-Wolf/blob/main/coding-typing.gif"  />
+###
 
 <div align="left">
   <a href="Jhammer228@gmail.com" target="_blank">
@@ -53,7 +55,7 @@
 
 ###
 
-<img align="right" height="100" src="https://github.com/Slayer-Wolf/Slayer-Wolf/blob/main/coding-typing.gif"  />
+
 
 ###
 
