@@ -53,7 +53,7 @@
 
 ###
 
-<img align="right" height="100" src="https://tenor.com/bCNex.gif"  />
+<img align="right" height="100" src="https://github.com/Slayer-Wolf/Slayer-Wolf/blob/main/coding-typing.gif"  />
 
 ###
 
