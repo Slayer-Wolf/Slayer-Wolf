@@ -59,4 +59,5 @@
 
 <img src="https://raw.githubusercontent.com/Slayer-Wolf/Slayer-Wolf/output/snake.svg" alt="Snake animation" />
 
+
 ###
